@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed emphasis tag. The `bug.html` file contains the erroneous code, leading to unexpected visual results. The `solution.html` file provides the corrected code.
